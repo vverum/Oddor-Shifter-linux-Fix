@@ -4,6 +4,7 @@ Fix for ODOR sim racing H shifter (cheap AliExpress shifter).
 It also changed it to a joystick with buttons 1 to 8 instead of a gamepad.
 
 I don't know shit about sys programming, so most work was done by claude-opus-5 and checked by me (LGTM).
+Details about the problem and the fixes are in [FINDINGS.md](FINDINGS.md).
 
 ## Install
 
